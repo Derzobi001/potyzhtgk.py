@@ -1,4 +1,5 @@
 python-telegram-bot
+pyTelegramBotAPI
 requests
 g4f
 flask
